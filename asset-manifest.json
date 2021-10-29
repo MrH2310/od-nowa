@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/od-nowa/static/css/main.a617e044.chunk.css",
+    "main.js": "/od-nowa/static/js/main.d3cddf8b.chunk.js",
+    "main.js.map": "/od-nowa/static/js/main.d3cddf8b.chunk.js.map",
+    "runtime-main.js": "/od-nowa/static/js/runtime-main.4d4b5b62.js",
+    "runtime-main.js.map": "/od-nowa/static/js/runtime-main.4d4b5b62.js.map",
+    "static/js/2.e7398e45.chunk.js": "/od-nowa/static/js/2.e7398e45.chunk.js",
+    "static/js/2.e7398e45.chunk.js.map": "/od-nowa/static/js/2.e7398e45.chunk.js.map",
+    "static/js/3.1b2992a1.chunk.js": "/od-nowa/static/js/3.1b2992a1.chunk.js",
+    "static/js/3.1b2992a1.chunk.js.map": "/od-nowa/static/js/3.1b2992a1.chunk.js.map",
+    "index.html": "/od-nowa/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/od-nowa/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.e7398e45.chunk.js.LICENSE.txt": "/od-nowa/static/js/2.e7398e45.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/od-nowa/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4d4b5b62.js",
+    "static/js/2.e7398e45.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.d3cddf8b.chunk.js"
+  ]
+}
