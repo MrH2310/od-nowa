@@ -1,0 +1,14 @@
+@import "./settings/reset";
+@import "./settings/colors";
+@import "./settings/fonts";
+@import "./settings/font-sizes";
+
+@import "./navBar";
+@import "./aboutUs";
+@import "./homeBar";
+@import "./contact";
+@import "./footer";
+
+body {
+  color: $main-color;
+}

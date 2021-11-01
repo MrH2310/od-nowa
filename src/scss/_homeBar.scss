@@ -1,0 +1,42 @@
+.home {
+  min-height: 80vh;
+  margin-bottom: 10vh;
+
+  .home-info {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    position: absolute;
+    top: 38%;
+    right: 20%;
+
+    h2 {
+      font-size: 2vw;
+    }
+
+    h1 {
+      font-size: 5vw;
+      padding: 3vh 0;
+      font-family: $decoration-font;
+    }
+
+    p {
+      font-size: 1.75vw;
+      padding-bottom: 3vh;
+    }
+
+    .to-contact {
+      border: none;
+      border-radius: 20px;
+      background-color: $accent-color;
+      color: white;
+      padding: 1vh 2vh;
+      font-size: 1.5vw;
+
+      &:hover {
+        transition: 0.5s ease-in-out;
+        transform: scale(1.2);
+      }
+    }
+  }
+}

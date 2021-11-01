@@ -1,0 +1,42 @@
+.contact-banner {
+  display: flex;
+  flex: row;
+  justify-content: center;
+  padding-top: 5vh;
+  line-height: 1.5;
+  text-transform: uppercase;
+
+  div {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+    min-height: 30vh;
+    min-width: 20vw;
+    background-color: rgba(73, 63, 63, 0.178);
+    margin: 2vh;
+    padding: 1vh;
+  }
+
+  img {
+    min-height: 7vh;
+    padding: 7vh 0 3vh 0;
+  }
+
+  a {
+    text-decoration: none;
+  }
+}
+
+.mapouter {
+  overflow: hidden;
+  text-align: center;
+  max-height: 400px;
+  min-width: 60vw;
+
+  #gmap_canvas {
+    background: none !important;
+    max-height: 400px;
+    min-width: 67vw;
+  }
+}

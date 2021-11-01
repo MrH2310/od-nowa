@@ -1,0 +1,48 @@
+.about-us {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  padding: 10vh 0;
+  // background-color: rgba(73, 63, 63, 0.178);
+
+  img {
+    max-width: 30vw;
+    max-height: 50vh;
+    border-radius: 50%;
+    box-shadow: 8px 8px 24px 0px rgba(66, 68, 90, 1);
+  }
+
+  .info-about-us {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    align-items: center;
+    padding-left: 20vh;
+    max-width: 30vw;
+    text-align: center;
+    line-height: 1.5;
+
+    h1 {
+      font-family: $decoration-font;
+    }
+
+    span {
+      border: 2px solid $accent-color;
+      width: 100px;
+    }
+
+    .to-procedures {
+      border: none;
+      border-radius: 20px;
+      background-color: $accent-color;
+      color: white;
+      padding: 1vh 2vh;
+      font-size: 2vh;
+
+      &:hover {
+        transition: 0.5s ease-in-out;
+        transform: scale(1.2);
+      }
+    }
+  }
+}
