@@ -1,23 +1,25 @@
 {
   "files": {
-    "main.css": "/od-nowa/static/css/main.a617e044.chunk.css",
-    "main.js": "/od-nowa/static/js/main.d3cddf8b.chunk.js",
-    "main.js.map": "/od-nowa/static/js/main.d3cddf8b.chunk.js.map",
-    "runtime-main.js": "/od-nowa/static/js/runtime-main.4d4b5b62.js",
-    "runtime-main.js.map": "/od-nowa/static/js/runtime-main.4d4b5b62.js.map",
-    "static/js/2.e7398e45.chunk.js": "/od-nowa/static/js/2.e7398e45.chunk.js",
-    "static/js/2.e7398e45.chunk.js.map": "/od-nowa/static/js/2.e7398e45.chunk.js.map",
-    "static/js/3.1b2992a1.chunk.js": "/od-nowa/static/js/3.1b2992a1.chunk.js",
-    "static/js/3.1b2992a1.chunk.js.map": "/od-nowa/static/js/3.1b2992a1.chunk.js.map",
+    "main.css": "/od-nowa/static/css/main.58fe1b1d.chunk.css",
+    "main.js": "/od-nowa/static/js/main.275ccded.chunk.js",
+    "main.js.map": "/od-nowa/static/js/main.275ccded.chunk.js.map",
+    "runtime-main.js": "/od-nowa/static/js/runtime-main.02ff3ebe.js",
+    "runtime-main.js.map": "/od-nowa/static/js/runtime-main.02ff3ebe.js.map",
+    "static/js/2.e87243cf.chunk.js": "/od-nowa/static/js/2.e87243cf.chunk.js",
+    "static/js/2.e87243cf.chunk.js.map": "/od-nowa/static/js/2.e87243cf.chunk.js.map",
     "index.html": "/od-nowa/index.html",
-    "static/css/main.a617e044.chunk.css.map": "/od-nowa/static/css/main.a617e044.chunk.css.map",
-    "static/js/2.e7398e45.chunk.js.LICENSE.txt": "/od-nowa/static/js/2.e7398e45.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/od-nowa/static/media/logo.6ce24c58.svg"
+    "static/css/main.58fe1b1d.chunk.css.map": "/od-nowa/static/css/main.58fe1b1d.chunk.css.map",
+    "static/js/2.e87243cf.chunk.js.LICENSE.txt": "/od-nowa/static/js/2.e87243cf.chunk.js.LICENSE.txt",
+    "static/media/Od_nowa_about_us.4a3a23bc.jpg": "/od-nowa/static/media/Od_nowa_about_us.4a3a23bc.jpg",
+    "static/media/contact.d2226cc5.svg": "/od-nowa/static/media/contact.d2226cc5.svg",
+    "static/media/home_bar_pic2.0c951fc5.jpg": "/od-nowa/static/media/home_bar_pic2.0c951fc5.jpg",
+    "static/media/location.8f04cd9a.svg": "/od-nowa/static/media/location.8f04cd9a.svg",
+    "static/media/socials.9786959c.svg": "/od-nowa/static/media/socials.9786959c.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.4d4b5b62.js",
-    "static/js/2.e7398e45.chunk.js",
-    "static/css/main.a617e044.chunk.css",
-    "static/js/main.d3cddf8b.chunk.js"
+    "static/js/runtime-main.02ff3ebe.js",
+    "static/js/2.e87243cf.chunk.js",
+    "static/css/main.58fe1b1d.chunk.css",
+    "static/js/main.275ccded.chunk.js"
   ]
 }
